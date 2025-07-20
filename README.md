@@ -38,6 +38,14 @@ A dynamic and user-friendly React-based JSON Schema Builder. Allows users to vis
 ```
 
 ---
+## 📸 Screenshot
+
+![App Screenshot](https://github.com/vik802207/HrOne/blob/main/img/Screenshot%20(744).png?raw=true)
+![App Screenshot](https://github.com/vik802207/HrOne/blob/main/img/Screenshot%20(745).png?raw=true)
+![App Screenshot](https://github.com/vik802207/HrOne/blob/main/img/Screenshot%20(746).png?raw=true)
+![App Screenshot](https://github.com/vik802207/HrOne/blob/main/img/Screenshot%20(747).png?raw=true)
+![App Screenshot](https://github.com/vik802207/HrOne/blob/main/img/Screenshot%20(748).png?raw=true)
+![App Screenshot](https://github.com/vik802207/HrOne/blob/main/img/Screenshot%20(749).png?raw=true)
 
 ## 🛠️ Installation
 
